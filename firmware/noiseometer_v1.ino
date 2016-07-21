@@ -7,7 +7,7 @@
 #include <MQTTClient.h>
 
 
-char *ssid = "wifi";
+char *ssid = "ssid";
 char *pass = "pass";
 
 #define SOUND_PIN A0
